@@ -1,0 +1,5 @@
+{
+  zend_string_equal_val
+  Memcheck:Cond
+  fun:zend_string_equal_val
+}

@@ -1,0 +1,7 @@
+/objs/
+*.o
+/webserv
+/.vscode
+mnaji.conf
+tester
+/tester_webserv/cgi_tester 
